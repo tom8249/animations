@@ -42,7 +42,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://tom8249.github.io/mima-animation",
   "devDependencies": {
     "@types/styled-components": "^5.1.24"
   }
